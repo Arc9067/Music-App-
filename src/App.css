@@ -1,0 +1,21 @@
+.wrap {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  flex-wrap: wrap;
+}
+
+button {
+  padding: 16px 32px;
+  border-radius: 20px;
+  cursor: pointer;
+  background-color: #fff;
+  outline: none;
+  border: none;
+}
+
+audio {
+  visibility: none;
+}
